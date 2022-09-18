@@ -8,4 +8,5 @@ Example drug names to test: Propofol, Midazolam, Cisatracurium
 
 
 
-Future work: speed up scraping
+Future work:  find alternative sources to find similar infomation
+
